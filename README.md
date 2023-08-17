@@ -1,7 +1,8 @@
-# Database-design-for-Real-Estate-Management
+# Database design for Real Estate Management Company
 Conceptual and logical database design based on a business case for a real estate management company
 
 This database design was part of an assignment and it was to create a Chen's notation and a crows foot notation ERD for a business case. The business case is split into two parts the first ERD which is the Chen's notation ERD is based on part one. The second ERD which is the crows foot notation ERD is based on part 2 and part 1. 
+
 Any assumptions are stated with highlighted text. The full SVG's for the database can be downloaded from this repository.
 
 ## The case
