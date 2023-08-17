@@ -21,7 +21,7 @@ To address this market, they realise that some properties might be too large for
 Prospects must register with the company before they view properties. Registration involves providing their legal name, some form of government ID, date of birth, phone number and email address. They must also indicate one or more date/time windows suitable for viewing. While optional, sharing a target weekly budget is encouraged to find suitable properties. Only one viewing agent handles this interaction and records the prospect's opinion of the property (yes, no, maybe).
 
 ## Chens notation ERD (Download SVG for best resolution)
-
+![image](CrowsFoot.svg)
 
 ## Crows foot ERD (Download SVG for best resolution)
-
+![image](ChensNotation.svg)
